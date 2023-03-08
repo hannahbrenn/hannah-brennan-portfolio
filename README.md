@@ -21,6 +21,8 @@ The target audience of this user manual are the research assistance and professo
 I have used the organizational tool [Asana](https://www.asana.com) in my previous jobs and personal task keeping. In order to introduce this tool to new team members, I have created a Quick Start Guide to introduce new users to the features of the application. 
 
 In this quickstart guide, I aim to:
-Ordered List:- Cover the basic tools of the application,
-Make instructions easy to follow for non-tech savvy users, and
-Opt for the most straigthforward method, with a description of the two main pages without any required order of use.
+1. Cover the basic tools of the application,
+2. Make instructions easy to follow for non-tech savvy users, and
+3. Opt for the most straigthforward method, with a description of the two main pages without any required order of use.
+
+The target audience of this quick start guide is non-technical people using the Asana application. The users do not need to be familiar with the application.
