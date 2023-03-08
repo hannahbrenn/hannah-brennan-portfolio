@@ -4,7 +4,7 @@ Hello! My name is Hannah. Thank you for your interest and for taking the time to
 
 Here is some quick information about me: I hold a Bachelor's Degree in English concentrating in Linguistics and in May 2023 I will hold a Master's Degree in English concentrating in Linguistics (focusing on Computational Linguistics). I have over 3 years of experience in content writing, copywriting, technical writing, and editing. You can lear more about me and my qualifications by check out my [LinkedIn Profile](https://www.linkedin.com/in/hannah-brennan-ba9562ab "Hannah Brennan LinkedIn").
 
-I transitioned into a Technical writing role a year ago, and my current work is proprietary. I have created this portfolio to address this gap in sharing my writing. My writing samples include a [User Manual](https://github.com/hannahbrenn/hannah-brennan-portfolio/blob/main/Ultrasound_User_Manual.pdf "Ultrasound User Manual") and [Quick Start Guide](https://github.com/hannahbrenn/hannah-brennan-portfolio/blob/main/Brennan_Asana_QuickStart_Guide.pdf "Asana Quick Start Guide").
+I transitioned into a Technical writing role a year ago, and my current work is proprietary. I have created this portfolio to address this gap in sharing my writing. My writing samples include a [User Manual](https://github.com/hannahbrenn/hannah-brennan-portfolio#-sample-1-ultrasound-user-manual "Sample 1") and [Quick Start Guide](https://github.com/hannahbrenn/hannah-brennan-portfolio#iphone-sample-2-asana-quick-start-guide "Sample 2").
 
 This is where I have uploaded my writing samples. Below you will find an explanation of each document, which can be found above in the indicated file name.
 
